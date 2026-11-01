@@ -1,45 +1,50 @@
 # COS201-Programming-I
+
 COS 201 Computer Programming I practical assignments for Weeks 1–3 using Java.
-Week 3: Variables, Data Types, Expressions and Input/Output
 
-Objectives
+## Week 3: Variables, Data Types, Expressions and Input/Output
 
-- To understand variables and data types in Java.
-- To perform arithmetic operations using Java expressions.
-- To receive user input and display output.
+### Objectives
 
-Programs
+- Understand variables and data types in Java.
+- Perform arithmetic operations using Java expressions.
+- Receive user input and display output.
 
-1. SimpleCalculator.java
+### Programs
 
+**1. SimpleCalculator.java**
 - Accepts two numbers from the user.
 - Calculates their sum, difference, product, and quotient.
 - Checks whether the divisor is zero before division.
 
-2. AverageCalculator.java
-
+**2. AverageCalculator.java**
 - Accepts a student's name and three course scores.
 - Calculates and displays the total score and average.
 
-3. ItemCost.java
-
+**3. ItemCost.java**
 - Accepts an item name, quantity, and unit price.
 - Calculates and displays the total cost.
 
-How to Compile and Run
+### How to Compile and Run
 
-Open a terminal in the "week03" folder and compile each program:
+Open a terminal inside the `week03` folder.
 
+Compile the programs:
+
+```bash
 javac SimpleCalculator.java
 javac AverageCalculator.java
 javac ItemCost.java
+```
 
-Run each program using:
+Run the programs:
 
+```bash
 java SimpleCalculator
 java AverageCalculator
 java ItemCost
+```
 
-Testing
+### Testing
 
-The programs should be tested with sample inputs to confirm that their calculations and displayed outputs are correct.
+All three programs were tested with sample inputs using an online Java compiler. They produced the expected results.
