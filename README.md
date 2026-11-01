@@ -63,3 +63,21 @@ Created and executed my first Java programme.
 - Output statements
 - Compilation and execution
 - GitHub version control
+
+## Week 2: Development Environment and First Java Program
+
+### Objective
+To learn how to write, run, and understand basic Java programs.
+
+### Programs Completed
+1. HelloWorld.java – Displays a welcome message and course information.
+2. PrintExample.java – Demonstrates print() and println().
+3. CommentsExample.java – Demonstrates single-line and multi-line comments.
+4. ErrorExample.java – Demonstrates identifying and correcting errors.
+
+### Tools Used
+- Programiz Online Java Compiler
+- GitHub
+
+### Learning Outcome
+I learned how to write Java programs, use output statements, add comments, identify errors, and save my work on GitHub.
