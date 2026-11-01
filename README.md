@@ -48,3 +48,18 @@ java ItemCost
 ### Testing
 
 All three programs were tested with sample inputs using an online Java compiler. They produced the expected results.
+
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Exercise
+Created and executed my first Java programme.
+
+### File
+- week01/FirstProgram.java
+
+### Skills Practised
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
